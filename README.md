@@ -2,8 +2,7 @@
 
 1. Implement the test suite using any JavaScript based framework.
     ---- implemented Using visual studio code and protractor framework with chai asssertion library------
-2. Test cases that needs to implemented are
-  2.1  As a customer, I can access Storefront (https://elguntors-stg.salesfloor.net/reggie)
+2. As a customer, I can access Storefront (https://elguntors-stg.salesfloor.net/reggie)
        1. As a customer, I see the “LIVE CHAT” status as “Unavailable”.
           ----Implmemted----
        2. Verify that the text colour is red.
